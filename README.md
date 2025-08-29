@@ -37,7 +37,6 @@ This project empowers developers to rapidly deploy and extend a classifieds mark
 - 🎨 **Responsive Design:** Mobile-first approach for seamless cross-device experiences
 - 🔍 **Advanced Search:** Filter and search functionality for easy product discovery
 - 📸 **Media Upload:** Image upload and storage capabilities for product listings
-- 💬 **User Communication:** Built-in messaging system for buyer-seller interactions
 
 ## Getting Started
 
@@ -190,7 +189,7 @@ If you encounter any issues or have questions:
 
 - 🐛 **Bug Reports:** [Open an issue](https://github.com/affilpm/react-olx-clone/issues)
 - 💡 **Feature Requests:** [Start a discussion](https://github.com/affilpm/react-olx-clone/discussions)
-- 📧 **Contact:** [Your Email](mailto:your-email@example.com)
+- 📧 **Contact:** [Your Email](mailto:affilpm2004@gmail.com)
 
 ---
 
